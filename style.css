@@ -1,0 +1,28 @@
+.header {
+      background-image: url('../images/banner.jpeg');
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+      background-position: center;
+      padding: 70px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-family: 'Pirata One', cursive;
+      font-size: 40px;
+      color: saddlebrown;
+      margin: 0;
+    }
+
+img {
+  border-style: solid;
+  border-width: 10px;
+  border-color: brown;
+}
+
+body {
+  background-color: #e4cbad;
+}
+
+h2 
